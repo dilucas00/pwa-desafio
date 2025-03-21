@@ -1,4 +1,4 @@
-const API_URL = 'https://backend-desafio-2.onrender.com/api/complaints';
+const API_URL = 'https://backend-desafio-eitq.onrender.com/api/complaints';
 
 document.getElementById('complaintForm').addEventListener('submit', async (e) => {
     e.preventDefault();
